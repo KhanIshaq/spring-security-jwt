@@ -1,7 +1,7 @@
 # spring-security-jwt
 
 ### Goto the Spring Initializer Website
-  - [Link to Spring Initializer!] (https://start.spring.io/)
+  - [Link to Spring Initializer!](https://start.spring.io/)
   
 ### Choose the available option. Selected Options for this Boot Application
   - Maven Project
